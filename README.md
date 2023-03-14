@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stuart2814
 - 👀 I’m interested in learning code to become a developer. 
-- 🌱 I’m currently learning Google Cloud Platform.
+- 🌱 I’m currently learning Kotlin and the Android platform.
 
 <!---
 stuart2814/stuart2814 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
